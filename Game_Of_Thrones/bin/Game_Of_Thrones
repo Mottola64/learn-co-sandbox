@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+Game_Of_Thrones::CLI.new.call
